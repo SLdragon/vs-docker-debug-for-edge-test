@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{34036844-64E7-43A5-9151-4AD90E180989}") = "DockerDebugEdge", "DockerDebugEdge\DockerDebugEdge.iotedgeproj", "{650E9127-49B5-4969-B6F2-4182630DAD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testdebug", "testdebug\testdebug.csproj", "{E88D4C92-79E4-4902-B433-0855BF779A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650E9127-49B5-4969-B6F2-4182630DAD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650E9127-49B5-4969-B6F2-4182630DAD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650E9127-49B5-4969-B6F2-4182630DAD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650E9127-49B5-4969-B6F2-4182630DAD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88D4C92-79E4-4902-B433-0855BF779A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88D4C92-79E4-4902-B433-0855BF779A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88D4C92-79E4-4902-B433-0855BF779A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88D4C92-79E4-4902-B433-0855BF779A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F73124E-599F-490D-807F-0D82CD6F72C0}
+	EndGlobalSection
+EndGlobal
